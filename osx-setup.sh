@@ -1,7 +1,7 @@
 #!/bin/sh
 
-# This script will setup a new Mac OS X installation at my needs.
-# Read it carefully before running it, and change it to suit your needs.
+# This script will setup a new Mac OS X installation for my needs,
+# read it carefully before running it, and change it to suit yours.
 # Many of this configs where taken from different places in the web, namely:
 # https://gist.github.com/brandonb927/3195465, https://github.com/mathiasbynens/dotfiles/blob/master/.osx
 
