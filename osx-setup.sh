@@ -159,6 +159,13 @@ apps=(
   utorrent
   xquartz
   wireshark
+  telegram-desktop
+  viber
+  google-chrome
+  evernote
+  stremio
+  spotify
+  slack
 )
 
 # Install apps to /Applications
