@@ -197,61 +197,40 @@ brew install caskroom/cask/brew-cask
 brew tap caskroom/versions
 
 apps=(
-  adium
   alfred
-  android-file-transfer
   appcleaner
-  atom
-  boom
+  docker
+  visual-studio-code
   caffeine
   cheatsheet
-  chicken
   clipmenu
   colors
-  diskmaker-x
   dropbox
-  flux
   filezilla
   firefox
-  github-desktop
   handbrake
-  imageoptim
-  limechat
   istumbler
-  iTerm
+  iTerm2
   mac-linux-usb-loader
-  malwarebytes-anti-malware
-  max
-  netspot
   nosleep
   onyx
-  paparazzi
-  qlmarkdown
-  sequel-pro
+  kap
   sizeup
   skype
-  sourcetree
-  spectacle
-  sublime-text3
-  teamviewer
-  the-unarchiver
-  torbrowser
   tunnelblick
   vagrant
   vagrant-manager
   vlc
+  gpg-suite
   virtualbox
-  istumbler
   utorrent
   xquartz
   wireshark
-  telegram-desktop
-  viber
   google-chrome
   evernote
-  stremio
   spotify
   slack
+  zoomus
 )
 
 # Install apps to /Applications
