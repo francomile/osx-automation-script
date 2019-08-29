@@ -260,8 +260,8 @@ defaults write NSGlobalDomain AppleKeyboardUIMode -int 3
 echo ""
 cecho "Setting a blazingly fast keyboard repeat rate" $green
 defaults write -g ApplePressAndHoldEnabled -bool false
-defaults write NSGlobalDomain KeyRepeat -int 0.02
-defaults write NSGlobalDomain InitialKeyRepeat -int 12
+defaults write -g KeyRepeat -int 1
+defaults write -g InitialKeyRepeat -int 12
 
 echo ""
 cecho "Setting trackpad & mouse speed to a reasonable number" $green
