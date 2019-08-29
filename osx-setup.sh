@@ -73,20 +73,106 @@ source ~/.bash_profile
 
 # Install more binaries:
 binaries=(
-  openssl
-  nmap
-  htop
-  watch
-  zsh
-  zsh-completions
-  tmux
-  md5sha1sum
-  wget
-  iperf
-  python3
-  tree
-  ack
-  git
+adns
+angle-grinder
+ansible
+ansible-cmdb
+aria2
+autoconf
+awscli
+bash-completion
+bash-git-prompt
+brew-cask-completion
+ccrypt
+ccze
+cmake
+consul
+coreutils
+dfc
+docker-completion
+docker-compose-completion
+docker-machine-completion
+fabric
+fabric-completion
+findutils
+gcc
+gdbm
+gemfury
+gettext
+git
+git-extras
+git-flow
+gmp
+gnupg
+gnutls
+grep
+htop
+http_load
+httperf
+iftop
+ipcalc
+iperf
+isl
+jq
+kompose
+kubernetes-cli
+ldns
+libassuan
+libevent
+libffi
+libgcrypt
+libgpg-error
+libidn2
+libksba
+libmpc
+libssh2
+libtasn1
+libunistring
+libusb
+libyaml
+mackup
+markdown
+mpfr
+ncdu
+ncurses
+netcat
+nethogs
+nettle
+npth
+oniguruma
+openssh
+openssl
+openssl@1.1
+p11-kit
+packer
+packer-completion
+pcre
+pcre2
+pigz
+pinentry
+python
+python@2
+readline
+ruby-completion
+s3cmd
+sqlite
+ssh-copy-id
+stunnel
+telnet
+terraform
+terraform-docs
+terraform-inventory
+tmux
+tree
+unbound
+vagrant-completion
+vault
+watch
+wget
+xz
+zsh
+zsh-completions
+zsh-syntax-highlighting
 )
 
 echo ""
